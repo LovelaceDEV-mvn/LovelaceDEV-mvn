@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 ##
 <div style="display: flex; flex-direction:row; justify-content:flex-start; align-itens:center;">
   <a href="https://github.com/karengoncalves8">
-  <img height="180em" width="410em" src="https://github-readme-stats.vercel.app/api?username=karengoncalves8&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="410em" src="https://github-readme-stats.vercel.app/api?username=LovelaceDEV-mvn&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
   <img height="180em" width="410em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karengoncalves8&layout=compact&langs_count=7&theme=aura"/>
 </div>
